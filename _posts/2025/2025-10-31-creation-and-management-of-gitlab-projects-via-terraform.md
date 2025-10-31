@@ -1,7 +1,7 @@
 ---
 title: "Создание и управление репозиториями гитлаб с помощью terraform"
 date: 2025-10-31 18:30:31 +0300
-categories: [Terraform]
+categories: [Terraform, Gitlab]
 tags: [terraform, gitlab]
 image:
   path: https://weyl.io/2022/01/terraform-provider-gitlabci/terraform_gitlab.png
